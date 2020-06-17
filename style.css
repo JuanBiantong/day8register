@@ -1,0 +1,44 @@
+
+body{
+    margin: 5% auto;
+    text-align: center;
+}
+.register {
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+    border: 1px solid gainsboro;
+    padding: 3%;
+
+}
+h1 {
+    width: 100%;
+}
+
+.register .image {
+    width: 50%;
+}
+
+.register .inputs {
+    padding: 5% 0;
+    width: 50%;
+    
+}
+/* img {
+    width: 200px;
+    height: 200px;
+} */
+
+input {
+    margin-bottom: 5%;
+}
+.button-submit {
+    width: 100%;
+}
+
+button {
+    background-color: blueviolet;
+    width: 40%;
+}
